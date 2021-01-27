@@ -1,4 +1,14 @@
-{
-    "sentence": "There’s a waiting visitor for you.",
-    "meaning": "People often simply abandon their pets when they go abroad."
-}
+[{
+        "sentence": "There’s a waiting visitor for you.",
+        "meaning": "Sizin için bekleyen bir ziyaretçi var."
+    }, {
+        "sentence": "People often simply abandon their pets when they go abroad.",
+        "meaning": "İnsanlar genellikle yurtdışına çıktıklarında evcil hayvanlarını yüzüstü bırakırlar."
+    },
+    {
+        "sentence": "The child was found abandoned but unharmed.",
+        "meaning": "Çocuk terk edilmiş olarak bulundu ama sağ salimdi."
+    }
+
+
+]
