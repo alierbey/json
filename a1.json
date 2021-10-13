@@ -1,30 +1,86 @@
 [{
-        "sentence": "There’s a waiting visitor for you.",
-        "meaning": "Sizin için bekleyen bir ziyaretçi var."
-    }, {
-        "sentence": "People often simply abandon their pets when they go abroad.",
-        "meaning": "İnsanlar genellikle yurtdışına çıktıklarında evcil hayvanlarını yüzüstü bırakırlar."
+        "sentence": "John is handsome",
+        "meaning": "John yakışıklıdır"
     },
     {
-        "sentence": "The child was found abandoned but unharmed.",
-        "meaning": "Çocuk terk edilmiş olarak bulundu ama sağ salimdi."
+            "sentence": "Mary is a teacher",
+            "meaning": "Mary bir öğretmendir"
     },
     {
-        "sentence": "deneme1",
-        "meaning": "Çocuk terk edilmiş olarak bulundu ama sağ salimdi."
+            "sentence": "She is my sister",
+            "meaning": "O benim kız kardeşim"
     },
     {
-        "sentence": "deneme2.",
-        "meaning": "Çocuk terk edilmiş olarak bulundu ama sağ salimdi."
+            "sentence": "His shoes are dirty ",
+            "meaning": "Ayakkabıları kirli"
     },
     {
-        "sentence": "deneme3 yen,i.",
-        "meaning": "Çocuk terk edilmiş olarak bulundu ama sağ salimdi."
+            "sentence": "Tom is tired ",
+            "meaning": "Tom yorgun"
     },
     {
-        "sentence": "deneme 4",
-        "meaning": "Çocuk terk edilmiş olarak bulundu ama sağ salimdi."
+            "sentence": "Shops are closed",
+            "meaning": "Mağazalar kapalı"
+    },
+    {
+            "sentence": "Jane is at home ",
+            "meaning": "Jane evde"
+    },
+    {
+            "sentence": "I am 21 years old",
+            "meaning": "Ben 21 yaşındayım"
+    },
+    {
+            "sentence": "The movie is wonderful",
+            "meaning": "Film harika"
+    },
+    {
+            "sentence": "Karen's eyes are green",
+            "meaning": "Karen'in gözleri yeşil"
+    },
+    {
+            "sentence": "",
+            "meaning": ""
+    },
+    {
+            "sentence": "It is Linda's bag",
+            "meaning": ""
+    },
+    {
+            "sentence": "They are in the kitchen.",
+            "meaning": "Onlar mutfaktalar"
+    },
+    {
+            "sentence": "Is she my daugther?",
+            "meaning": "O benim kız çocuğum mu?"
+    },
+    {
+            "sentence": "Are his shoes dirty?",
+            "meaning": "Ayakkabıları kirli mi?"
+    },
+    {
+            "sentence": "Is Tom tired?",
+            "meaning": "Tom yorgun mu?"
+    },
+    ,
+    {
+            "sentence": "Are shops closed?",
+            "meaning": "Mağazalar kapalı mı?"
+    },
+    {
+            "sentence": "Is Jane at home?",
+            "meaning": "Jane evde mi?"
+    },
+    {
+            "sentence": "Tom isn't tired. ",
+            "meaning": "Tom yorgun değildir."
+    },
+    {
+            "sentence": "Jane isn't at home.",
+            "meaning": "Jane evde değildir."
     }
+
+
 
 
 ]
