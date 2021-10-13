@@ -1,14 +1,274 @@
 [{
-        "sentence": "There’s a waiting visitor for you.",
-        "meaning": "Sizin için bekleyen bir ziyaretçi var."
-    }, {
-        "sentence": "People often simply abandon their pets when they go abroad.",
-        "meaning": "İnsanlar genellikle yurtdışına çıktıklarında evcil hayvanlarını yüzüstü bırakırlar."
+        "sentence": "John is handsome",
+        "meaning": "John yakışıklıdır"
     },
     {
-        "sentence": "The child was found abandoned but unharmed.",
-        "meaning": "Çocuk terk edilmiş olarak bulundu ama sağ salimdi."
-    }
-
+            "sentence": "Mary is a teacher",
+            "meaning": "Mary bir öğretmendir"
+    },
+    {
+            "sentence": "She is my sister",
+            "meaning": "O benim kız kardeşim"
+    },
+    {
+            "sentence": "His shoes are dirty ",
+            "meaning": "Ayakkabıları kirli"
+    },
+    {
+            "sentence": "Tom is tired ",
+            "meaning": "Tom yorgun"
+    },
+    {
+            "sentence": "Shops are closed",
+            "meaning": "Mağazalar kapalı"
+    },
+    {
+            "sentence": "Jane is at home ",
+            "meaning": "Jane evde"
+    },
+    {
+            "sentence": "I am 21 years old",
+            "meaning": "Ben 21 yaşındayım"
+    },
+    {
+            "sentence": "The movie is wonderful",
+            "meaning": "Film harika"
+    },
+    {
+            "sentence": "Karen's eyes are green",
+            "meaning": "Karen'in gözleri yeşil"
+    },
+    {
+            "sentence": "",
+            "meaning": ""
+    },
+    {
+            "sentence": "It is Linda's bag",
+            "meaning": ""
+    },
+    {
+            "sentence": "They are in the kitchen.",
+            "meaning": "Onlar mutfaktalar"
+    },
+    {
+            "sentence": "Is she my daugther?",
+            "meaning": "O benim kız çocuğum mu?"
+    },
+    {
+            "sentence": "Are his shoes dirty?",
+            "meaning": "Ayakkabıları kirli mi?"
+    },
+    {
+            "sentence": "Is Tom tired?",
+            "meaning": "Tom yorgun mu?"
+    },
+    {
+            "sentence": "Are shops closed?",
+            "meaning": "Mağazalar kapalı mı?"
+    },
+    {
+            "sentence": "Is Jane at home?",
+            "meaning": "Jane evde mi?"
+    },
+    {
+            "sentence": "Tom isn't tired. ",
+            "meaning": "Tom yorgun değildir."
+    },
+    {
+            "sentence": "Jane isn't at home.",
+            "meaning": "Jane evde değildir."
+    },
+    {
+            "sentence": "They bought a very nice car. ",
+            "meaning": "Onlar çok güzel bir araba satın aldı."
+        },
+        {
+                "sentence": "I work in a school. ",
+                "meaning": "Ben bir okulda çalışırım."
+        },
+        {
+                "sentence": "Our friend lives in London. ",
+                "meaning": "Bizim arkadaşımız Londra’da yaşar."
+        },
+        {
+                "sentence": "She doesn’t play tennis.",
+                "meaning": "O tenis oynamaz."
+        },
+        {
+                "sentence": "The train does not leave at 9am. ",
+                "meaning": "Tren saat 9’da hareket etmez."
+        },
+        {
+                "sentence": "California is in America.",
+                "meaning": "Kaliforniya Amerika’dadır."
+        },
+        {
+                "sentence": "She always listens to classical music.",
+                "meaning": "O hep klasik müzik dinler."
+        },
+        {
+                "sentence": "I usually go to cinema at weekends.",
+                "meaning": "Genellikle haftasonları sinemaya giderim."
+        },
+        {
+                "sentence": "They often visit us.",
+                "meaning": "Bizi sık sık ziyaret ederler."
+        },
+        {
+                "sentence": "She sometimes writes me a letter.",
+                "meaning": "Bana arasıra mektup yazar."
+        },
+        {
+                "sentence": " I never drink alcohol.",
+                "meaning": "Hiç alkol içmem."
+        },
+        {
+                "sentence": " I rarely smoke.",
+                "meaning": "Nadiren sigara içerim."
+        },
+        {
+                "sentence": "I go fishing every Sunday.",
+                "meaning": "Her pazar balık tutmaya giderim."
+        },
+        {
+                "sentence": "I play tennis basketball every day at school.",
+                "meaning": "Hergün okulda basketbol oynarım."
+        },
+        {
+                "sentence": "I learn piano with my friends.",
+                "meaning": "Arkadaşlarımla piyano öğreniyorum."
+        },
+        {
+                "sentence": "You speak French very well.",
+                "meaning": "Çok iyi Fransızca konuşuyorsun."
+        },
+        ,
+        {
+                "sentence": "Some people like spending time at home.",
+                "meaning": "Bazı insanlar evde vakit geçirmekten hoşlanır."
+        },
+        {
+                "sentence": "He catches the train at 6 AM every morning.",
+                "meaning": "Her sabah saat 6’da treni yakalar."
+        },
+        {
+                "sentence": " Jack goes to gym every day.",
+                "meaning": "Jack her gün spor salonuna gider."
+        },
+        {
+                "sentence": "Susan loves to play piano.",
+                "meaning": "Piyano çalmaya bayılır."
+        },
+        {
+                "sentence": "English people always carry umbrella. ",
+                "meaning": "İngilizler daima şemsiye taşırlar"
+        },
+        {
+                "sentence": "It usually rains every day here.",
+                "meaning": "Yağmur burada genelde her gün yağar."
+        },
+        {
+                "sentence": " It smells very delicious in the kitchen.",
+                "meaning": "Mutfaktan leziz kokular geliyor."
+        },
+        {
+                "sentence": "We generally sing songs all together.",
+                "meaning": "Şarkılarımı genelde hep beraber söyleriz."
+        }
+        ,
+        {
+                "sentence": "We go to a gallery every Sunday.",
+                "meaning": "Her Pazar sergievine gideriz."
+        },
+        {
+                "sentence": "They drive their kids to school every day.",
+                "meaning": "Çocuklarını her gün okula götürüyorlar."
+        },
+        {
+                "sentence": "They work for a chemical company.",
+                "meaning": "Bir kimya şirketi için çalışıyorlar."
+        },
+        {
+                "sentence": "My uncles lives in a big house in New York.",
+                "meaning": "Amcam New York’ta büyük bir evde yaşar."
+        },
+        {
+                "sentence": "I don’t believe you.",
+                "meaning": "Sana inanmıyorum."
+        },
+        {
+                "sentence": "I don’t trust people who lie.",
+                "meaning": "Yalan söyleyen insanlara güvenmem."
+        },
+        {
+                "sentence": "ou don’t know that guy, do you?",
+                "meaning": "O adamı tanımıyorsun, değil mi?"
+        },
+        {
+                "sentence": "My family don’t let me go out at night.",
+                "meaning": "Ailem gece dışarı çıkmama izin vermiyor."
+        }
+        ,
+        {
+                "sentence": "My friend Michael does not want to stay here anymore.",
+                "meaning": "Arkadaşım Michael artık burada kalmak istemiyor."
+        },
+        {
+                "sentence": "It doesn’t smell good in this part of town.",
+                "meaning": "Şehrin bu bölümü iyi kokmaz."
+        },
+        {
+                "sentence": "It doesn’t matter anymore.",
+                "meaning": "Artık farketmez."
+        },
+        {
+                "sentence": "He doesn’t like swimming in the pool.",
+                "meaning": "Havuzda yüzmekten hoşlanmıyor."
+        },
+        {
+                "sentence": "She doesn’t call me even when she needs my help. ",
+                "meaning": "Bana ihtiyacı olduğunda bile beni aramaz."
+        },
+        {
+                "sentence": "She does not go to bed before 1 AM at the weekend.",
+                "meaning": "Hafta sonunda gece birden önce yatmaz."
+        },
+        {
+                "sentence": "Many people prefer to live in countryside in these days.",
+                "meaning": "Bugünlerde birçok insan kırsal kesimde yaşamayı tercih ediyor."
+        },
+        {
+                "sentence": "Does the cake taste good? ",
+                "meaning": "Pastanın tadı güzel mi?"
+        }
+        ,
+        {
+                "sentence": "Does your father speak Spanish fluently?",
+                "meaning": "Baban akıcı bir şekilde İspanyolca konuşuyor mu?"
+        },
+        {
+                "sentence": "Does she eat a lot lately?",
+                "meaning": "Son zamanlarda çok mu yiyor?"
+        },
+        {
+                "sentence": "I watched TV last night.",
+                "meaning": "Dün gece televizyon seyrettim."
+        },
+        {
+                "sentence": "The rain stopped a few minutes ago.",
+                "meaning": "Yağmur birkaç dakika önce durdu."
+        },
+        {
+                "sentence": "Mary came home very late last night. ",
+                "meaning": "Mary dün gece eve çok geç geldi."
+        },
+        {
+                "sentence": "Last year I traveled to England.",
+                "meaning": "Geçen yıl İngiltere’ye seyahat ettim."
+        },
+        {
+                "sentence": "John studied hard all year.",
+                "meaning": "John tüm yıl çok sıkı çalıştı."
+        },
 
 ]
