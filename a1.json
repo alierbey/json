@@ -142,7 +142,6 @@
                 "sentence": "You speak French very well.",
                 "meaning": "Çok iyi Fransızca konuşuyorsun."
         },
-        ,
         {
                 "sentence": "Some people like spending time at home.",
                 "meaning": "Bazı insanlar evde vakit geçirmekten hoşlanır."
@@ -240,8 +239,7 @@
         {
                 "sentence": "Does the cake taste good? ",
                 "meaning": "Pastanın tadı güzel mi?"
-        }
-        ,
+        },
         {
                 "sentence": "Does your father speak Spanish fluently?",
                 "meaning": "Baban akıcı bir şekilde İspanyolca konuşuyor mu?"
